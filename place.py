@@ -3,7 +3,7 @@ Place class which is super class
 of all other classes
 name: Charles Anderson
 date started: 17/09/2020
-Github URL:
+Github URL: https://github.com/CharlesA750/Assignment_2_CharlesA
 """
 
 IMPORTANCE_DECIDE = 2
